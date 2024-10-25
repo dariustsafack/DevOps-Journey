@@ -6,8 +6,8 @@ Welcome! This repository documents my progress as I transition from a C# Develop
 - [ ] Azure Fundamentals (Week 3-6)
 - [ ] CI/CD Pipelines (Week 7-8)
 - [ ] Kubernetes & Docker (Week 9-12)
-- [ ] IaC Terraform & Bicep & ARM Template
-- [ ] Monitoring & Automation
+- [ ] IaC Terraform & Bicep & ARM Template ()
+- [ ] Monitoring & Automation ()
 
 # Certification
 - [x] Azure Fundamentals (Az 100)
