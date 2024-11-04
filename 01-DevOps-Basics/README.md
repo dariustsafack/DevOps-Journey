@@ -7,4 +7,5 @@
 - Git
 - Jenkins (Installation, CLI, Backup/Restore, Plugins, Jenkinsfile)
 - Docker (Containers, Images, Volumes, Networks, Registry)
-- Kubernetes basics
+- Kubernetes basics (Pods, ReplicaSets, Deployments, Networking, Services)
+- Ansible (Inventory, Playbook, Module, Variables, Conditionals, Loops, Roles)
