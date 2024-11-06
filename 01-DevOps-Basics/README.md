@@ -9,3 +9,5 @@
 - Docker (Containers, Images, Volumes, Networks, Registry)
 - Kubernetes basics (Pods, ReplicaSets, Deployments, Networking, Services)
 - Ansible (Inventory, Playbook, Module, Variables, Conditionals, Loops, Roles)
+- Terraform (Providers, Variables, State, Lifecycle, Meta-arguments, Version constraints)
+- Python (Literals, Operators, Variables, Comments, Conditional statements, Loops ...)
