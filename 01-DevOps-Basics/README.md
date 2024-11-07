@@ -10,4 +10,6 @@
 - Kubernetes basics (Pods, ReplicaSets, Deployments, Networking, Services)
 - Ansible (Inventory, Playbook, Module, Variables, Conditionals, Loops, Roles)
 - Terraform (Providers, Variables, State, Lifecycle, Meta-arguments, Version constraints)
-- Python (Literals, Operators, Variables, Comments, Conditional statements, Loops ...)
+- Python basics (Literals, Operators, Variables, Comments, Conditional statements, Loops, Logic and Bit Operations, Lists, Functions, Tuples and Dictionaries)
+- VirtualBox basics (Network, Snapshot, Clone)
+- Vagrant basics
