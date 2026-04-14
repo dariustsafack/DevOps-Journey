@@ -2,12 +2,13 @@
 Welcome! This repository documents my progress as I transition from a C# Developer to a DevOps Engineer.
 
 ## Learning Progress
-- [ ] DevOps Basics (Week 1-2)
-- [ ] Azure Fundamentals (Week 3-6)
-- [ ] CI/CD Pipelines (Week 7-8)
-- [ ] Kubernetes & Docker (Week 9-12)
-- [ ] IaC Terraform & Bicep & ARM Template ()
-- [ ] Monitoring & Automation ()
+- [x] DevOps Basics (Week 1-2)
+- [..] Azure Fundamentals (Week 3-6)
+- [ ] CI/CD Pipelines (Week 7-9)
+- [ ] Kubernetes & Docker (Week 10-13)
+- [ ] IaC Terraform & Bicep & ARM Template (14-16)
+- [ ] Monitoring, Automation & Security (17-20)
+- [ ] Certifications (21-24)
 
 # Certification
 - [x] Azure Fundamentals (Az 100)
